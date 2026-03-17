@@ -1,1 +1,1 @@
-# mine
+ML algorithm capable of classifying short audio clips into their correct sound categories using a dataset featuring a diverse collection of real-world sounds — including everyday noises, environmental ambience, musical tones, and human-made sounds.
